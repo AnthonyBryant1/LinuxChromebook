@@ -1,9 +1,11 @@
 <h1>Installing Mabox Linux On A Chromebook</h1>
 <h2>The Why</h2>
-This device was given away by someone in my mom's apartment complex. There's a common practice there of leaving undesired items like bags of dehydrated beans next to the mailboxes. Apparently its previous owner didn't see any value in it. And I can see why. With only 4GB of RAM, and a 16GB HD, it's already not going to turn heads with its performance. Not to mention that it is beyond EOL support from Google for its OS. When I created a new user to poke around the OS to see what it could do, I wasn't impressed. I couldn't even get my preferred VPN on there, because I was limited to the Google Store via Chrome. I really liked the fact that it had a built in HDMI port though, which my Lenovo at the time did not (and even with an adapter, performance was spotty). So if this machine could be freed of its limitations and liabilities (no updates means no security patches), it would make the perfect little streaming/browsing device to leave in the living room next to the TV.
+<p></p>This device was left next to a dumpster in my mom's apartment complex. Apparently its previous owner didn't see any value in it. And I can see why. With only 4GB of RAM, a 16GB hard drive, and an outdated OS no longer supported by Google, I could see why it had been left behind.</p>
+
+<p>When I created a new user to poke around the OS to see what it could do, I wasn't impressed. I couldn't even get my preferred VPN on there, because I was limited to the Google Play Store. However, its HDMI port (a feature my main device lacked) made it a perfect candidate for repurposing as a lightweight streaming and browsing device for my living room. By installing Mabox Linux, I aimed to free the device from its limitations and extend its functionality, security, and lifespan.</p>
 
 <h2>Overview</h2>
-Project consists of a taking a 2016 Chromebook, which no longer receives updates, and bringing it back to life with a lightweight version of Manjora Linux called Mabox. We can do this by flashing the firmware. Then use Mabox installation media (USB drive) to install our new OS!
+Project consists of a taking a 2016 Chromebook, which no longer receives [security] updates, and bringing it back to life with a lightweight version of Manjora Linux called Mabox. We can do this by flashing the firmware. Then use Mabox installation media (USB drive) to install our new OS!
 <br />
 
 
